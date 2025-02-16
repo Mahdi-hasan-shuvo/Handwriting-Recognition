@@ -83,6 +83,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ![image](https://github.com/user-attachments/assets/da9bab9f-8f69-4e3c-b76c-d230917e16ce)
 
-
 ![sa](https://github.com/user-attachments/assets/bbfa5391-eaf6-4d30-b234-e305d57c57f9)
+
+for multiple texts prediction
+![image](https://github.com/user-attachments/assets/8d1ed5b1-719f-4592-aad0-c2d81be80cf3)
+
 
