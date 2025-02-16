@@ -40,21 +40,11 @@ The model is trained on a comprehensive dataset of handwritten characters. You c
 
 ## Usage
 
-1. Prepare your dataset by placing your images in the designated directory.
-2. Update the configuration file with your dataset path and training parameters.
-3. Train the model by executing the following command:
-   ```
-   python train.py
-   ```
 
-4. To evaluate the model on test data, run:
+1 To make predictions on new images, use:
    ```
-   python evaluate.py
-   ```
-
-5. To make predictions on new images, use:
-   ```
-   python predict.py --image path/to/your/image.png
+   #image = cv2.imread('your image_path')
+   python test.py
    ```
 
 ## Model Architecture
@@ -91,5 +81,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Feel free to modify and expand this README as needed to suit your specific project goals and details!
+
 ![sa](https://github.com/user-attachments/assets/bbfa5391-eaf6-4d30-b234-e305d57c57f9)
